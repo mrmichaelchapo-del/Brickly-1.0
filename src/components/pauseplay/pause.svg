@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="300" viewBox="0 0 200 300">
+  <!-- Left stick -->
+  <rect x="60" y="20" width="20" height="260" fill="#F5C518" stroke="#B8940F" stroke-width="3" rx="4"/>
+  <!-- Right stick -->
+  <rect x="120" y="20" width="20" height="260" fill="#F5C518" stroke="#B8940F" stroke-width="3" rx="4"/>
+</svg>
